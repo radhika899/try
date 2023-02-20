@@ -1,2 +1,2 @@
 print("good morning")
-print("cehcking")
+print("checking")
